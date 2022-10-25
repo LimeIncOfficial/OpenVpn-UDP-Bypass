@@ -1,4 +1,7 @@
 <h1 align="center">
   OpenVpn-UDP-Bypass
 </h1>
-eeewrqrer
+
+## What do you need
+- A OpenVpn Config File
+- A Shadowsocks Server to connect too
